@@ -1,4 +1,4 @@
-# React site example
+# React Redux site example
 * Site example with react + react-router + redux
 
 ## Screenshots
